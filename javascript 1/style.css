@@ -1,0 +1,48 @@
+body
+{
+   margin: 0 0 0 0;
+   background-color: #F2EFE5;
+}
+
+
+
+
+
+header
+{
+   width: 100%;
+   display: block;
+}
+
+#table
+{
+    position: relative;
+    left: 5%;
+    right: 5%;
+    background-color:#E3E1D9;
+    border-radius: 50px;
+    width: 90%;
+    display: block;
+}
+
+.header 
+{
+   padding-left: 40px;
+}
+
+
+#body 
+{
+   position: absolute;
+   top: 30%;
+   right: 35%;
+}
+
+#image
+{
+   border-radius: 50%;
+}
+
+/* this is the for the about section */
+
+

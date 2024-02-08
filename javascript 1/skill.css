@@ -1,0 +1,131 @@
+
+body
+{
+   margin: 0 0 0 0;
+   background-color: #F2EFE5;
+}
+
+
+/* this is for the skill section */
+
+header
+{
+   width: 100%;
+   display: block;
+}
+
+#table
+{
+    position: relative;
+    left: 5%;
+    right: 5%;
+    background-color:#E3E1D9;
+    border-radius: 50px;
+    width: 90%;
+    display: block;
+}
+
+.header 
+{
+   padding-left: 40px;
+}
+
+
+#web {
+    display: inline-block;
+    text-align: center;
+    background-color: #B4B4B8;
+    width: 40%;
+    height: 80%;
+    font-size:large;
+    position: absolute;
+    top: 15%;
+    left: 5%;
+    border-style: inherit;
+    border-radius: 25px;
+
+}
+
+#frontend
+{
+   display: inline-block;
+   background-color: #F5EEC8;
+   text-align: left;
+   width: 40%;
+   padding-left: 2%;
+   border-style: solid;
+   border-color: grey;
+   border-radius: 25px;
+   position: absolute;
+   left: 7%;
+   bottom: 2%;
+}
+
+
+#backend
+{
+   display: inline-block;
+   background-color: #F5EEC8;
+   width: 40%;
+   font-size: large;
+   padding-left: 2%;
+   text-align: left;
+   border-style: solid;
+   border-color: grey;
+   border-radius: 25px;
+   position: absolute;
+   right: 7%;
+   top: 12%;
+}
+
+
+#skills
+{
+    display: inline-block;
+    background-color: #E0CCBE;
+    text-align: center;
+    width: 40%;
+    height: 80%;
+    font-size:large;
+    position: absolute;
+    bottom: 2%;
+    right: 5%;
+    border-style: inherit;
+    border-radius: 25px;
+}
+
+#languages
+{
+    display: inline-block;
+    background-color: #F5EEC8;
+    width: 40%;
+    font-size: large;
+    padding-left: 2%;
+    text-align: left;
+    border-style: solid;
+    border-color: grey;
+    border-radius: 25px;
+    position: absolute;
+    right: 7%;
+    top: 12%;
+   
+
+}
+
+#frameworks
+{
+    display: inline-block;
+    background-color: #F5EEC8;
+    text-align: left;
+    width: 40%;
+    padding-left: 2%;
+    border-style: solid;
+    border-color: grey;
+    border-radius: 25px;
+    position: absolute;
+    left: 7%;
+    bottom: 2%;
+}
+
+
+
